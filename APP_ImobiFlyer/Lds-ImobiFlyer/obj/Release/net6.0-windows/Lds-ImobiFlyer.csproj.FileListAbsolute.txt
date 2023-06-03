@@ -1,0 +1,17 @@
+C:\UAb\2S\21179-LDS\25_Codigo\Lds-ImobiFlyer_Final\V5\Lds-ImobiFlyer\bin\Release\net6.0-windows\Lds-ImobiFlyer.exe
+C:\UAb\2S\21179-LDS\25_Codigo\Lds-ImobiFlyer_Final\V5\Lds-ImobiFlyer\bin\Release\net6.0-windows\Lds-ImobiFlyer.deps.json
+C:\UAb\2S\21179-LDS\25_Codigo\Lds-ImobiFlyer_Final\V5\Lds-ImobiFlyer\bin\Release\net6.0-windows\Lds-ImobiFlyer.runtimeconfig.json
+C:\UAb\2S\21179-LDS\25_Codigo\Lds-ImobiFlyer_Final\V5\Lds-ImobiFlyer\bin\Release\net6.0-windows\Lds-ImobiFlyer.dll
+C:\UAb\2S\21179-LDS\25_Codigo\Lds-ImobiFlyer_Final\V5\Lds-ImobiFlyer\bin\Release\net6.0-windows\Lds-ImobiFlyer.pdb
+C:\UAb\2S\21179-LDS\25_Codigo\Lds-ImobiFlyer_Final\V5\Lds-ImobiFlyer\obj\Release\net6.0-windows\Lds-ImobiFlyer.csproj.AssemblyReference.cache
+C:\UAb\2S\21179-LDS\25_Codigo\Lds-ImobiFlyer_Final\V5\Lds-ImobiFlyer\obj\Release\net6.0-windows\Lds_ImobiFlyer.View.FormMain.resources
+C:\UAb\2S\21179-LDS\25_Codigo\Lds-ImobiFlyer_Final\V5\Lds-ImobiFlyer\obj\Release\net6.0-windows\Lds-ImobiFlyer.csproj.GenerateResource.cache
+C:\UAb\2S\21179-LDS\25_Codigo\Lds-ImobiFlyer_Final\V5\Lds-ImobiFlyer\obj\Release\net6.0-windows\Lds-ImobiFlyer.GeneratedMSBuildEditorConfig.editorconfig
+C:\UAb\2S\21179-LDS\25_Codigo\Lds-ImobiFlyer_Final\V5\Lds-ImobiFlyer\obj\Release\net6.0-windows\Lds-ImobiFlyer.AssemblyInfoInputs.cache
+C:\UAb\2S\21179-LDS\25_Codigo\Lds-ImobiFlyer_Final\V5\Lds-ImobiFlyer\obj\Release\net6.0-windows\Lds-ImobiFlyer.AssemblyInfo.cs
+C:\UAb\2S\21179-LDS\25_Codigo\Lds-ImobiFlyer_Final\V5\Lds-ImobiFlyer\obj\Release\net6.0-windows\Lds-ImobiFlyer.csproj.CoreCompileInputs.cache
+C:\UAb\2S\21179-LDS\25_Codigo\Lds-ImobiFlyer_Final\V5\Lds-ImobiFlyer\obj\Release\net6.0-windows\Lds-ImobiFlyer.dll
+C:\UAb\2S\21179-LDS\25_Codigo\Lds-ImobiFlyer_Final\V5\Lds-ImobiFlyer\obj\Release\net6.0-windows\refint\Lds-ImobiFlyer.dll
+C:\UAb\2S\21179-LDS\25_Codigo\Lds-ImobiFlyer_Final\V5\Lds-ImobiFlyer\obj\Release\net6.0-windows\Lds-ImobiFlyer.pdb
+C:\UAb\2S\21179-LDS\25_Codigo\Lds-ImobiFlyer_Final\V5\Lds-ImobiFlyer\obj\Release\net6.0-windows\Lds-ImobiFlyer.genruntimeconfig.cache
+C:\UAb\2S\21179-LDS\25_Codigo\Lds-ImobiFlyer_Final\V5\Lds-ImobiFlyer\obj\Release\net6.0-windows\ref\Lds-ImobiFlyer.dll

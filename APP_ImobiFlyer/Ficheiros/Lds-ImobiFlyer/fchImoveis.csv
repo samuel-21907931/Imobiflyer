@@ -1,0 +1,8 @@
+ID;Data;Tipologia;Valor;Localidade;Finalidade;Status;Nome
+1;2023-03-11;Apartamento T2;179000;Olivais,Lisboa;Comprar;D;António
+2;2023-03-11;Apartamento T1;219000;Bonfim,Porto;Comprar;A;José
+3;2023-03-11;Apartamento T2;249000;Benfica,Lisboa;Comprar;V;Maria
+4;2023-03-15;Apartamento T0;800;Campo Grande,Lisboa;Alugar;A;Joaquim
+5;2023-03-15;Moradia V3;450000;Sintra;Comprar;A;Leonor
+6;2023-03-15;Terreno;150000;Castelo Branco;Vender;X;Isabel
+7;2023-03-15;Terreno;50000;Castelo Branco;Comprar;A;João
